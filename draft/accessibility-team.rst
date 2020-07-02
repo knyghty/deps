@@ -70,13 +70,13 @@ not limited to:
   the issue tracker, etc.
 
 The responsibilities of the Accessibility Team are expected to change over
-time, and are to be decided by conensus of the team, with input from the
-Technical Board as required. to begin, several areas have been identified:
+time, and are to be decided by consensus of the team, with input from the
+Technical Board as required. To begin, several areas have been identified:
 
 - Deciding on any relevant accessibility guidelines to follow, such as WCAG,
   and at which conformance level.
 
-- Implementing automated testing to catch simpler issues, working with the ops
+- Implementing automated testing to catch issues, working with the ops
   team as needed to integrate this into the CI process.
 
 - Fixing accessibility issues in Django and associated projects.
@@ -115,7 +115,7 @@ accessibility issues that exist in the Djago admin and on the
 enough.
 
 Another option is to implement some basic standards, such as conforming to WCAG
-WCAG and setting up a CI to test. This approach is better than nothing but it
+and setting up a CI to test. This approach is better than nothing but it
 lacks a clear process for deciding on these. Ongoing maintenence would also be
 necessary to keep any CI or other tooling up to date with Django's code, along
 with manual audits - as
