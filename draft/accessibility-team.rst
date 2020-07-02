@@ -122,6 +122,16 @@ with manual audits - as
 `automatic processes cannot find every issue <https://alphagov.github.io/accessibility-tool-audit/>`_
 - and these could be easily forgotten.
 
+Resources
+=========
+
+- `Diverse Abilities and Barriers (W3C)
+  <https://www.w3.org/WAI/people-use-web/abilities-barriers/>`_
+- `Accessibility, Usability, and Inclusion (W3C)
+  <https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/>`_
+- `Web Content Accessibility Guidelines (WCAG) Overview
+  <https://www.w3.org/WAI/standards-guidelines/wcag/>`_
+
 Copyright
 =========
 
