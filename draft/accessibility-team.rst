@@ -79,10 +79,17 @@ Technical Board as required. To begin, several areas have been identified:
 - Implementing automated testing to catch issues, working with the ops
   team as needed to integrate this into the CI process.
 
-- Fixing accessibility issues in Django and associated projects.
+- Coordinating regular manual accessibility audits on all relevant projects.
 
-- Reviewing accessibility fixes and other tickets that may affect the
-  accessibility of the project.
+- Coordinating the fixing of accessibility issues and the improvement of the
+  accessibility in general in Django and associated projects.
+
+- Writing and maintaining documentation relating to accessibility, such as
+  a statement of commitment to accessibility issues, and contribution
+  guidelines.
+
+- Reviewing accessibility fixes, improvements and other tickets that may affect
+  the accessibility of the project.
 
 To aid in reviewing, the Accessibility Team members shall be added to a team
 in the GitHub organization with read access to relevant repositories, so that
@@ -90,8 +97,9 @@ they may be requested to review pull requests, at the discretion of the author,
 reviewer, or other party.
 
 Many of these duties can be implemented by any contributor, not only by the
-Accessibility Team, however the Accessibility Team exists here as a fallback
-in case nobody else is available to do so.
+Accessibility Team, however the Accessibility Team exists to coordinate this
+work and to step in where contributors are not availble and support those who
+lack the knowledge to do so themselves.
 
 
 Motivation
