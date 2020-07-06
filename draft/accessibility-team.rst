@@ -108,6 +108,14 @@ is often overlooked when developing features. Django is no exception to this,
 and given Django's commitment to diversity and inclusion, the lack of
 accessibility in many parts of Django falls short of an acceptable standard.
 
+Improving accessibility also has a tendency to improve the experience of other
+users. This is called the
+`curb cut effect <https://alexwlchan.net/2019/01/monki-gras-the-curb-cut-effect/>`_
+While this is mostly noted in the real world, the web also experiences this
+affect. For example, keyboard shortcuts are used to allow keyboard-only users
+navigate a site more efficiently, but this positive benefit affects everyone,
+not just the physically disabled.
+
 The django admin currently exhibits many accessibility issues, such as forms
 fields missing labels, low color contrast, a lacklustre keyboard-only
 experience among other issues. Other parts of the project have problems such
