@@ -97,7 +97,7 @@ reviewer, or other party.
 
 Many of these duties can be undertaken by any contributor, not only by the
 Accessibility Team, however the Accessibility Team exists to coordinate this
-work and to step in where contributors are not availble and support those who
+work and to step in where contributors are not available and support those who
 lack the knowledge to do so themselves.
 
 Motivation
@@ -112,7 +112,7 @@ Improving accessibility also has a tendency to improve the experience of other
 users. This is called the
 `curb cut effect <https://alexwlchan.net/2019/01/monki-gras-the-curb-cut-effect/>`_
 While this is mostly noted in the real world, the web also experiences this
-affect. For example, keyboard shortcuts are used to allow keyboard-only users
+effect. For example, keyboard shortcuts are used to allow keyboard-only users
 navigate a site more efficiently, but this positive benefit affects everyone,
 not just the physically disabled.
 
@@ -129,13 +129,13 @@ Rationale
 
 An alternative is to go on as usual, leaving accessibility in the hands of
 individual contributors when writing and reviewing code. However, given the
-accessibility issues that exist in the Djago admin and on the
+accessibility issues that exist in the Django admin and on the
 `Django website <https://www.djangoproject.com/>`__, this doesn't seem to be
 enough.
 
 Another option is to implement some basic standards, such as conforming to WCAG
 and setting up a CI to test. This approach is better than nothing but it
-lacks a clear process for deciding on these. Ongoing maintenence would also be
+lacks a clear process for deciding on these. Ongoing maintenance would also be
 necessary to keep any CI or other tooling up to date with Django's code, along
 with manual audits - as
 `automatic processes cannot find every issue <https://alphagov.github.io/accessibility-tool-audit/>`_
