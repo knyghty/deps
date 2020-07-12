@@ -62,7 +62,7 @@ of projects maintained by the Django Software Foundation. This includes but is
 not limited to:
 
 - User-facing parts of Django, such as default HTML output in forms and such,
-  and the django admin and its default theme, HTML, and JavaScript components.
+  and the django admin and its default theme, HTML, and UI components.
 
 - All websites and other software projects maintained by the DSF, such as the
   Django website, including documentation, Django Snippets, Django People,
@@ -150,6 +150,8 @@ Resources
   <https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/>`_
 - `Web Content Accessibility Guidelines (WCAG) Overview
   <https://www.w3.org/WAI/standards-guidelines/wcag/>`_
+- `Authoring Tools Accessibility Guidelines (ATAG) 2.0
+  <https://www.w3.org/TR/ATAG20/>`_
 
 Copyright
 =========
